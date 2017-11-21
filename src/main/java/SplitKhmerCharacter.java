@@ -22,7 +22,6 @@ class Split {
         this.input = input;
         this.oldInput = input;
     }
-
     public void start() {
         String temp = null;
         for(int i=0;i<this.input.length();i++) {
@@ -49,9 +48,13 @@ class Split {
         	System.out.println(results);
         	for(String str: results){
         		//System.out.println(str);
-        		this.oldInput = this.oldInput.replaceAll(str, "");
+        		this.oldInput = this.oldInput.replaceAll(str, str+ "​");
         	}
-        	System.out.println("ពាក្យដែលមិនអាចស្វែងរកបាននៅក្នុង Dictionary ==> " + this.oldInput);        		
+        	System.out.println("ពាក្យដែលមិនអាចស្វែងរកបាននៅក្នុង Dictionary ==> " + this.oldInput);    
+        	String [] split = this.oldInput.split("​");
+        	for(String str: split){
+        		System.out.println(str);
+        	}
         }
         
     }
