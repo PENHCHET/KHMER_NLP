@@ -50,7 +50,7 @@ class Split {
         		//System.out.println(str);
         		this.oldInput = this.oldInput.replaceAll(str, str+ "​");
         	}
-        	System.out.println("ពាក្យដែលមិនអាចស្វែងរកបាននៅក្នុង Dictionary ==> " + this.oldInput);    
+        	System.out.println("ពាក្យក្រោយពេលបន្ថែមនៅចន្លោះមើលមិនឃើញ ==> " + this.oldInput);    
         	String [] split = this.oldInput.split("​");
         	for(String str: split){
         		System.out.println(str);
