@@ -45,12 +45,13 @@ class Split {
         }else{
         	Collections.reverse(results);
         	//String found = String.join("", results);
+        	System.out.println("ពាក្យដែលបានស្វែងរកឃើញនៅក្នុង Dictionary ==> ");
         	System.out.println(results);
         	for(String str: results){
-        		System.out.println(str);
+        		//System.out.println(str);
         		this.oldInput = this.oldInput.replaceAll(str, "");
         	}
-        	System.out.println(this.oldInput);        		
+        	System.out.println("ពាក្យដែលមិនអាចស្វែងរកបាននៅក្នុង Dictionary ==> " + this.oldInput);        		
         }
         
     }
