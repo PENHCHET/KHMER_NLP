@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76ac40d9-820c-4089-b3e0-1a23fe86a9fc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/SplitKhmerCharacter.java" afterPath="$PROJECT_DIR$/src/main/java/SplitKhmerCharacter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/chhunnat_dictionary.txt" afterPath="$PROJECT_DIR$/src/main/resources/chhunnat_dictionary.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/kr.ac.cbnu/Segmentation/pom.properties" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/kr.ac.cbnu/Segmentation/pom.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,12 +22,12 @@
       <file leaf-file-name="SplitKhmerCharacter.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/SplitKhmerCharacter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="554">
+              <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#610#618#0" expanded="true" />
-                <marker date="1511285717325" expanded="true" signature="2267:2567" ph="{...}" />
+                <marker date="1511285889172" expanded="true" signature="2262:2562" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -77,7 +73,7 @@
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="2576" />
@@ -713,15 +709,15 @@
       <workItem from="1511273170611" duration="1746000" />
       <workItem from="1511275233063" duration="673000" />
       <workItem from="1511278997038" duration="775000" />
-      <workItem from="1511280057603" duration="4372000" />
+      <workItem from="1511280057603" duration="4544000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7566000" />
+    <option name="totallyTimeSpent" value="7738000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -786,7 +782,7 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#610#618#0" expanded="true" />
-            <marker date="1511285717325" expanded="true" signature="2267:2567" ph="{...}" />
+            <marker date="1511285889172" expanded="true" signature="2262:2562" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -806,7 +802,7 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#610#618#0" expanded="true" />
-            <marker date="1511285717325" expanded="true" signature="2267:2567" ph="{...}" />
+            <marker date="1511285889172" expanded="true" signature="2262:2562" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -829,12 +825,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SplitKhmerCharacter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="554">
+          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#610#618#0" expanded="true" />
-            <marker date="1511285717325" expanded="true" signature="2267:2567" ph="{...}" />
+            <marker date="1511285889172" expanded="true" signature="2262:2562" ph="{...}" />
           </folding>
         </state>
       </provider>
